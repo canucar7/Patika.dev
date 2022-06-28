@@ -1,8 +1,9 @@
-[22,27,16,2,18,6] -> Insertion Sort
+
 
 Request:
 
-1. 
+1. [22,27,16,2,18,6] -> Insertion Sort
+ 
   a- Show the steps of sorting the array above
   b- Write Big-O notation.
   c- Write three cases which are average case, worst case and best case.
